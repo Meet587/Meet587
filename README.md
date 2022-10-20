@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meet587
-- 👀 I’m interested in Web Devloment and Blockchain
-- 🌱 I’m currently learning Java Script And Solidity 
+- 👀 I’m interested in Web Devloment
+- 🌱 I’m currently learning FrontEnd Devlopment 
 - 📫 LinkedIn: https://www.linkedin.com/in/meet-rakholiya-115524221/
 
 <!---
