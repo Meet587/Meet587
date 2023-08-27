@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet587&label=Profile%20views&color=0e75b6&style=flat" alt="meet587" /> </p>
 
-- 🔭 I’m currently working on [My Personal Portfolio](https://github.com/Meet587/Portfolio)
+- 🔭 I’m currently working on [My Personal Portfolio](https://meet-rakholiya-portfolio.netlify.app/)
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://meet587.github.io/Portfolio/](https://meet587.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://meet587.github.io/Portfolio/](https://meet-rakholiya-portfolio.netlify.app/)
 
 - 💬 Ask me about **HTML5, CSS, JAVASCRIPT, REACT JS, REACT ROUTER V6, REDUX**
 
