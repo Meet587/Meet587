@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [My Personal Portfolio](https://meet-rakholiya-portfolio.netlify.app/)
 
-- 🌱 I’m currently learning **Next JS/TS Tailwind CSS**
+- 🌱 I’m currently learning **Next JS/TS & TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://meet587.github.io/Portfolio/](https://meet-rakholiya-portfolio.netlify.app/)
 
