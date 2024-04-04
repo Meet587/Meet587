@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Next JS/TS & TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://meet587.github.io/Portfolio/](https://meet-rakholiya-portfolio.netlify.app/)
-
 - 💬 Ask me about **HTML5, CSS, JAVASCRIPT, REACT JS, REACT ROUTER V6, REDUX**
 
 - 📫 How to reach me **meet.rakholiya.w1@gmail.com**
