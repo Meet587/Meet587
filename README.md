@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet587&label=Profile%20views&color=0e75b6&style=flat" alt="meet587" /> </p>
 
-- 🔭 I’m currently working on [My Personal Portfolio]([https://meet-rakholiya-portfolio.netlify.app/](https://meet-rakholiya-portfolio.vercel.app/))
+- 🔭 I’m currently working on [My Personal Portfolio](https://meet-rakholiya-portfolio.netlify.app/)
 
 - 🌱 I’m currently learning **Next JS/TS & TailwindCSS**
 
